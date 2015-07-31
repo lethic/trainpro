@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00002.jpg'>
+    <box top='569' left='5' width='909' height='541'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00003.jpg'>
+    <box top='553' left='4' width='894' height='554'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00004.jpg'>
+    <box top='594' left='10' width='943' height='524'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00005.jpg'>
+    <box top='583' left='1' width='892' height='522'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00006.jpg'>
+    <box top='588' left='25' width='852' height='448'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00007.jpg'>
+    <box top='580' left='2' width='828' height='465'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00008.jpg'>
+    <box top='606' left='1' width='858' height='459'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00009.jpg'>
+    <box top='586' left='1' width='815' height='477'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00049.jpg'>
+    <box top='573' left='6' width='521' height='248'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00050.jpg'>
+    <box top='562' left='1' width='507' height='275'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00051.jpg'>
+    <box top='538' left='4' width='480' height='248'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00061.jpg'>
+    <box top='563' left='373' width='455' height='225'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00062.jpg'>
+    <box top='568' left='232' width='474' height='224'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00063.jpg'>
+    <box top='573' left='282' width='472' height='231'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00065.jpg'>
+    <box top='561' left='567' width='471' height='239'/>
+  </image>
+  <image file='/local_home/dlib-18.15/trainpro_test/chatterbox/train/dataset-00066.jpg'>
+    <box top='573' left='639' width='478' height='234'/>
+  </image>
+</images>
+</dataset>
