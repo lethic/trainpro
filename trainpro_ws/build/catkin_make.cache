@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/local_home/trainpro/trainpro_ws/devel -DCMAKE_INSTALL_PREFIX=/local_home/trainpro/trainpro_ws/install -G Unix Makefiles
