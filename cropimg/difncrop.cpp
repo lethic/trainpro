@@ -55,6 +55,7 @@ void produceAnnotation(std::string directory,
   br_x = bb.x + bb.width;
   br_y = bb.y + bb.height;
 
+
   fprintf(file,
   		  "<annotation><filename>%s</filename><folder>%s</folder><imagesize><nrows>%d</nrows><ncols>%d</ncols></imagesize><object><name>%s</name><deleted>0</deleted><polygon><pt><x>%d</x><y>%d</y></pt><pt><x>%d</x><y>%d</y></pt><pt><x>%d</x><y>%d</y></pt><pt><x>%d</x><y>%d</y></pt></polygon></object></annotation>",
   		  filename.c_str(), directory.c_str(), img->rows, img->cols, label.c_str(),
